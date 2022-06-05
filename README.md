@@ -10,10 +10,11 @@ person.character(300,120,10)
 
 <pre>
     <code>
-    //import Character from 'class-character' for commojs or
+    
     // let Character = require('class-character' for module)
 
         let person = new Character() 
+        
         person.character(300,120,10) // methods character(hp, atk, luck)
 
     </code>
