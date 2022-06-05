@@ -1,0 +1,9 @@
+{
+  "name": "class-character",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "Julio Nunes",
+  "keywords": ["Brazil", "JavaScript", "Developer Junior"],
+  "repository": "https://github.com/JulioNunesDev/Character-npm-class.git"
+}
